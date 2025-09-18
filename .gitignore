@@ -7,6 +7,10 @@
 [Bb]uilds/
 [Ll]ogs/
 Assets/
+.utmp/
+.vscode/
+obj/
+[Pp]ackages
 TQ01.00_BurstDebugInformation_DoNotShip/
 [Mm]emoryCaptures/
 Obj/
