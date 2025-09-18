@@ -1,0 +1,13 @@
+git branch -M [new name of branch]: rename current branch
+git branch [new name branch]: create new name branch
+git checkout [new name branch]: switch to new name branch
+git checkout -b [new name branch] create and switch to new name branch
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TrieuTin/TowerGame_HatDe.git
+git push -u origin main
